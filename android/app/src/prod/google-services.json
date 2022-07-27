@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784083848172",
+    "firebase_url": "https://zono-enterprise.firebaseio.com",
+    "project_id": "zono-enterprise",
+    "storage_bucket": "zono-enterprise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784083848172:android:3d503d2fa04e3bef498ec9",
+        "android_client_info": {
+          "package_name": "com.zono"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784083848172-puif8s3cj88qd2pnj86vk1ckd0jhovf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWIR2u0hdWZd16AhsUj3sH_xZqmpUTMa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784083848172-puif8s3cj88qd2pnj86vk1ckd0jhovf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

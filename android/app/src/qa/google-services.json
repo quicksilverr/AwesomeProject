@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747001220431",
+    "project_id": "zono-enterprise-qa",
+    "storage_bucket": "zono-enterprise-qa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747001220431:android:9f051d59386c4f4141493a",
+        "android_client_info": {
+          "package_name": "com.zono.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747001220431-1ij9qmcfaspm48sp27ss6g9m78avuqkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0i6HxlSfYUUPickIaa0vRhU5dNyj-lAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747001220431-1ij9qmcfaspm48sp27ss6g9m78avuqkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
